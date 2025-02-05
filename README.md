@@ -1,10 +1,11 @@
 # Projeto - Loja Online ICE
 
-Trabalhando para aloja online Ice, que vende videogames no mundo todo.
-As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. 
+Loja online Ice - Venda de videogames no mundo todo.
 
 Objetivo:
 Identificar padrões que determinam se um jogo tem sucesso ou não, para assim identificar possíveis sucessos e planejar campanhas publicitárias.
+
+As avaliações de usuários e especialistas, gêneros, plataformas (por exemplo, Xbox ou PlayStation) e dados históricos sobre vendas de jogos estão disponíveis em fontes abertas. 
 
 Os dados disponibilizados remontam a 2016 e o projeto é para planejar uma campanha para 2017.
 
