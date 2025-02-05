@@ -13,8 +13,8 @@ O conjunto de dados contém uma coluna de "rating" (classificação) que armazen
 O Entertainment Software Rating Board avalia o conteúdo de um jogo e atribui uma classificação etária, como Teen (Adolescente) ou Mature (Adulto).
 
 Etapa 1: Estudando as informações gerais<br />
-Etapa 2: Preparação dos dados
-Etapa 3: Análise dos dados
-Etapa 4: Criação de perfil de usuário para cada região
+Etapa 2: Preparação dos dados<br />
+Etapa 3: Análise dos dados<br />
+Etapa 4: Criação de perfil de usuário para cada região<br />
 Etapa 5: Teste de hipóteses
 
